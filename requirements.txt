@@ -1,0 +1,2 @@
+pandas==1.2.3
+swmm-api==0.1a23
