@@ -8,7 +8,7 @@ setup(
     description='SWMM5 runner',
     long_description=open('README.md').read(),
     install_requires=[''],
-    url='https://https://github.com/carldata/swmm5-api',
+    url='https://github.com/carldata/swmm5-api',
     author='Jakub Wenta',
     author_email='jakubwenta@gmail.com'
 )
