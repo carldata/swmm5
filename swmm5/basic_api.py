@@ -2,7 +2,7 @@ import os
 import subprocess
 from sys import platform as _platform
 
-root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+root_dir = os.path.dirname(os.path.abspath(__file__))
 
 
 def _get_swmm_path():
