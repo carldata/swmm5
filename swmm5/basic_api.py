@@ -6,10 +6,10 @@ root_dir = os.path.dirname(os.path.abspath(__file__))
 
 
 def _get_swmm_path():
-    swmm_path = os.path.join(root_dir, 'lib', 'linux', 'swmm5')
+    swmm_path = os.path.join(root_dir, 'lib', 'linux', 'swmm')
 
     if _platform.startswith("win"):
-        swmm_path = os.path.join(root_dir, 'lib', 'windows', 'swmm5.exe')
+        swmm_path = os.path.join(root_dir, 'lib', 'windows', 'swmm.exe')
     return swmm_path
 
 
