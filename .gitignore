@@ -14,7 +14,7 @@ develop-eggs/
 downloads/
 eggs/
 .eggs/
-swmm5/lib/
+#swmm5/lib/
 lib64/
 parts/
 sdist/
