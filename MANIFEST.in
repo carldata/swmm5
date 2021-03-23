@@ -1,0 +1,3 @@
+include swmm5/lib/windows/swmm.exe
+include swmm5/lib/windows/swmm5.dll
+include swmm5/lib/linux/swmm
